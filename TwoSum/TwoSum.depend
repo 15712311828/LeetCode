@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1495893726 source:e:\leetcode\leetcode\twosum\main.cpp
+	<vector>
+	<iostream>
+

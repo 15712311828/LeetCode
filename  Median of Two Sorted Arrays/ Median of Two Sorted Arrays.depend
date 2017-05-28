@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1495896804 source:e:\leetcode\leetcode\ median of two sorted arrays\main.cpp
+	<vector>
+	<iostream>
+

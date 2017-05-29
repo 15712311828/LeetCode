@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1496071596 source:e:\leetcode\leetcode\sudoku solver\main.cpp
+	<iostream>
+	<vector>
+	<set>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1496069025 source:e:\leetcode\leetcode\longest valid parentheses\main.cpp
+	<iostream>
+	<stack>
+

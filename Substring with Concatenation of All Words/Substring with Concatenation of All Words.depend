@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1496032961 source:e:\leetcode\leetcode\substring with concatenation of all words\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<unordered_map>
+

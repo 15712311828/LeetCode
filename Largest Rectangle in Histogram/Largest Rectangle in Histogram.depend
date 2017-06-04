@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1496461316 source:e:\leetcode\leetcode\largest rectangle in histogram\main.cpp
+	<iostream>
+	<vector>
+

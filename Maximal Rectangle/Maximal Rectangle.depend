@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1496496497 source:e:\leetcode\leetcode\maximal rectangle\main.cpp
+	<iostream>
+	<vector>
+

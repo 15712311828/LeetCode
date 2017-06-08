@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1496662817 source:e:\leetcode\leetcode\longest consecutive sequence\main.cpp
+	<iostream>
+	<vector>
+	<set>
+

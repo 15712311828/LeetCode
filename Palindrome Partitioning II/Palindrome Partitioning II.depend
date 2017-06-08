@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1496666551 source:e:\leetcode\leetcode\palindrome partitioning ii\main.cpp
+	<iostream>
+	<vector>
+	<string>
+

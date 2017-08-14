@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1501328198 source:e:\leetcode\leetcode\3sum\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

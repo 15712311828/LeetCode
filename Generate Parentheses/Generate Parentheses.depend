@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1501575902 source:e:\leetcode\leetcode\generate parentheses\main.cpp
+	<iostream>
+	<vector>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1501590070 source:e:\leetcode\leetcode\search in rotated sorted array\main.cpp
+	<iostream>
+	<vector>
+

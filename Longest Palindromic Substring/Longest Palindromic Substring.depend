@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1501322207 source:e:\leetcode\leetcode\longest palindromic substring\main.cpp
+	<iostream>
+	<string>
+

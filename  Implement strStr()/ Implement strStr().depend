@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1501580050 source:e:\leetcode\leetcode\ implement strstr()\main.cpp
+	<iostream>
+	<string>
+	<vector>
+

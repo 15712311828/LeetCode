@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1501471274 source:e:\leetcode\leetcode\longest common prefix\main.cpp
+	<iostream>
+	<string>
+	<vector>
+
